@@ -43,3 +43,17 @@ Comandos:
  
  - git push origin master
  -- Envia (push) para o repositorio (origin (nome dele)) a branch desejada (master)
+
+
+ - Aula 20
+ - Criaçaõ de Branch
+ -- git checkout -b nomebranch
+
+ - Listar branchs
+ -- git branch
+
+ - Apagar branch
+ -- git branch -D nomebranch
+
+ - Trocar de branch
+ -- git checkout nomebranch
