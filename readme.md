@@ -26,8 +26,8 @@ Comandos:
  - git status
  -- mostra os status dos arquivos do repositório.
 
- Para 
- - git reset 
+
+- git reset 
  -- soft
  --- Volta um commit, mas deixa o arquivo ainda adicionado
 
