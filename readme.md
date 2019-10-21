@@ -40,3 +40,6 @@ Comandos:
 
  - Aula 16
  Testes de envio de commit para repositório.
+ 
+ - git push origin master
+ -- Envia (push) para o repositorio (origin (nome dele)) a branch desejada (master)
