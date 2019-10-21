@@ -36,3 +36,7 @@ Comandos:
 
  -- hard
  --- Volta o commit e remove todas as modificações feitas
+
+
+ - Aula 16
+ Testes de envio de commit para repositório.
