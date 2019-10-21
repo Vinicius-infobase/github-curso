@@ -25,3 +25,14 @@ Comandos:
 
  - git status
  -- mostra os status dos arquivos do repositório.
+
+ Para 
+ - git reset 
+ -- soft
+ --- Volta um commit, mas deixa o arquivo ainda adicionado
+
+ -- mixed
+ --- Volta o commit e remove o arquivo adicionado, mas mantem o arquivo modificado
+
+ -- hard
+ --- Volta o commit e remove todas as modificações feitas
