@@ -57,3 +57,17 @@ Comandos:
 
  - Trocar de branch
  -- git checkout nomebranch
+
+
+ - Aula 25
+ - Gitignore
+ -- Cria uma blacklist de arquivos específicos ou geral que impedem de serem mandados ao repositório no push
+ -- Existe no próprio github um repositório com vários arquivos de .gitignore ja prontos para serem inseridos no projeto
+ --- vi .getigore
+ --- Editar ele como arquivo texto
+
+ - Aula 27
+ -- Alias: cria um apelido para um outro comando
+ -- git config --gloval alias.apelido apelidado
+
+
